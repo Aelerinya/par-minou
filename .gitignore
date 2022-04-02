@@ -13,3 +13,5 @@ Plugins
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Geometry/Meshes
+Content/ThirdPerson/Meshes
